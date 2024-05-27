@@ -1,3 +1,4 @@
+![1000046057](https://github.com/pi-apps/door/assets/64244907/07b528bc-62ea-4f84-84e2-7a182baeecac)
 # Door for Pi
 
 ## Introduction
